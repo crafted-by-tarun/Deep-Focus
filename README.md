@@ -15,7 +15,6 @@
 &nbsp;
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 &nbsp;
-[![No Build](https://img.shields.io/badge/No%20Build%20Step-✓-10b981?style=for-the-badge&labelColor=0c0e16)](.)
 
 <br/>
 <br/>
