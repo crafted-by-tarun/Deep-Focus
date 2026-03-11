@@ -2,7 +2,6 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/⚡-Deep%20Focus-6c63ff?style=for-the-badge&labelColor=07080d&color=6c63ff" height="42"/>
 
 <h3>A professional deep-work session logger built with React</h3>
 <p>Track focus sessions · Analyze productivity · Build daily streaks</p>
